@@ -8,12 +8,16 @@
         {
             "name": "Ehsan Rezaei",
             "email": "mr.rezaee121@gmail.com"
+        },
+        {
+            "name": "Sergey Zhirov",
+            "email": "polarwolf@cscleague.org"
         }
     ],
     "require": {
         "yiisoft/yii2": "*",
         "yiisoft/yii2-imagine": "*",
-        "bower-asset/Jcrop": "=0.9.12",
+        "bower-asset/Jcrop": "=0.9.12@dev",
         "bower-asset/simple-ajax-uploader": "@dev"
     },
     "autoload": {
